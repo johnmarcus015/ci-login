@@ -1,0 +1,22 @@
+.content {
+	margin-top: 5%;
+}
+.content-login {
+	padding: 3%;
+}
+.equal-height {  
+    display: -webkit-flex;
+    display: flex;
+}
+.row-login {
+    height: 500px;
+}
+
+.panel-login{
+	height: 100%;
+}
+
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
