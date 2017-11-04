@@ -1,15 +1,8 @@
 {
-	"description": "The CodeIgniter framework",
-	"name": "codeigniter/framework",
+	"description": "Projeto base de auth para codeigniter",
+	"name": "johnmarcus015/ci-login",
 	"type": "project",
-	"homepage": "https://codeigniter.com",
 	"license": "MIT",
-	"support": {
-		"forum": "http://forum.codeigniter.com/",
-		"wiki": "https://github.com/bcit-ci/CodeIgniter/wiki",
-		"slack": "https://codeigniterchat.slack.com",
-		"source": "https://github.com/bcit-ci/CodeIgniter"
-	},
 	"require": {
 		"php": ">=5.3.7",
 		"twitter/bootstrap": "3.3.7",
