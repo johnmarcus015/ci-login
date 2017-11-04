@@ -3,6 +3,10 @@
 	"name": "johnmarcus015/ci-login",
 	"type": "project",
 	"license": "MIT",
+	"repositories": [{
+            	"url": "https://github.com/johnmarcus015/ci-login.git",
+            	"type": "git"
+       	}],
 	"require": {
 		"php": ">=5.3.7",
 		"twitter/bootstrap": "3.3.7",
